@@ -1,0 +1,17 @@
+En esta tarea vamos a practicar la creación de formularios y layout.
+
+En esta primera parte, agregaremos una barra de navegación, donde dentro tendremos que
+poner la lista desordenada creada previamente.
+
+También agregaremos un pie de página mencionando los derechos de autor.
+
+Recordemos que la etiqueta header y footer debe mantenerse en todas las páginas que se
+creen en el proyecto.
+
+Dentro de la etiqueta main, colocaremos secciones ( <section></section> ) donde volcaremos todo
+el contenido que creamos conveniente para la página. Podemos incluir todas las etiquetas
+aprendidas hasta el momento.
+
+Como segunda parte de la tarea, tendremos que crear un archivo html nuevo donde colocaremos
+el formulario de contacto. Este nuevo archivo deberá estar enlazado al ítem “Contacto” que se encuentra
+en la barra de navegación, así al hacer clic, redirecciona a esta nueva página.
